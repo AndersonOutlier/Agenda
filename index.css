@@ -85,6 +85,7 @@ main .display {
 
 .display span {
     display: block;
+    text-align: center;
     /* background-color: blue; */
     margin: 2px;
     font-size: 40px;
